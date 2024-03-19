@@ -1,0 +1,23 @@
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+}
+
+.color-fiap {
+    background-color: #dc143c;
+    color: #ffffff;
+}
+
+.icon-logo {
+    font-size: 30px;
+    color: rgb(4, 4, 66);
+}
+
+.funcionario-foto {
+    width: 60px;
+}
+
+textarea {
+    resize: none;
+    height: 200px;
+}
